@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Threejs**
 
-- 👨‍💻 All of my projects are available at [https://briandev.info](https://briandev.info)
+- 👨‍💻 My projects are available at [https://briandev.info](https://briandev.info)
 
 - 📝 I regularly write articles on [https://briandev.info](https://briandev.info)
 
