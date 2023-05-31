@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [brian.dev](brian.dev)
 
-- 💬 Ask me about **react, vue**
-
 - 📫 How to reach me **hoangthiennhat.vn@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
