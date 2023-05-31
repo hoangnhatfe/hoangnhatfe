@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Threejs**
 
-- 👨‍💻 All of my projects are available at [https://brian.dev](https://brian.dev)
+- 👨‍💻 All of my projects are available at [https://briandev.info](https://briandev.info)
 
-- 📝 I regularly write articles on [https://brian.dev](https://brian.dev)
+- 📝 I regularly write articles on [https://briandev.info](https://briandev.info)
 
 - 📫 How to reach me **hoangthiennhat.vn@gmail.com**
 
